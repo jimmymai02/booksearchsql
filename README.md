@@ -1,4 +1,4 @@
-# Book-Search-SQL (Part 1)
+# Book-Search-SQL
 Single search functionality used to locate a book within loaded library database.
 
 ## Table of Contents
@@ -13,7 +13,7 @@ Single search functionality used to locate a book within loaded library database
 - [Reports](#reports)
   
 ### Project Description
-Part I of the project involves design, development and implementation of the Database that could be used by
+The project involves design, development and implementation of the Database that could be used by
 client-server application (to be utilized by librarians).
 
 High level functionality to be developed and executed:
