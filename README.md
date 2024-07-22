@@ -53,6 +53,9 @@ Deliverables:
 1. ER diagram
 2. Database objects create statements: create table, foreign keys, indexes, etc.
 
+![Screenshot (428)](https://github.com/user-attachments/assets/93c9bdab-c76e-4679-be97-41228223ec90)
+
+
 ### Data Load, Normalization, Data Generation
 
 1. Load dataset files (provided with the project requirements) utilizing SQL Developer guided interface. 
@@ -80,6 +83,9 @@ Search should display the following information for each book in the result set:
 
 Deliverables: SQL statements, Screen Shots with output of the search for 3 search inputs.
 
+![Screenshot (429)](https://github.com/user-attachments/assets/6888f1fc-1f02-459b-8b11-909aad018e89)
+
+
 ### Reports 
 
 Design and write SQL for 3 reports. The reports can accept input parameters, for example branch or date.
@@ -87,3 +93,12 @@ Design and write SQL for 3 reports. The reports can accept input parameters, for
 - Each report will have aggregation and accumulation functionality
 
 Deliverables: SQL statement and Screen shot of results and SQL for each report
+
+1st Report - "Top 10 Greatest Fines By Borrowers That Were Paid Off"
+![Screenshot (430)](https://github.com/user-attachments/assets/71f47b4e-e47f-455c-83db-938aa76e7c28)
+
+2nd Report - "Top Branches With The Highest Outstanding Fine Amount"
+![Screenshot (431)](https://github.com/user-attachments/assets/cf00334b-e253-4045-bb4c-0798a0f0824b)
+
+3rd Report - "Top Book Titles That Were Checked Out By Borrowers"
+![Screenshot (432)](https://github.com/user-attachments/assets/305a4dc7-5f31-4dc7-893e-57df188fabe5)
