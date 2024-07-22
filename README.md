@@ -1,6 +1,17 @@
 # Book-Search-SQL (Part 1)
 Single search functionality used to locate a book within loaded library database.
 
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Data Sources](#data-sources)
+- [Database and Tools](#database-and-tools)
+- [High Level Data Model](#high-level-data-model)
+- [Design and DB Architecture](#design-and-db-architecture)
+- [Data Load, Normalization, Data Generation](#data-load-normalization-data-generation)
+- [Book Search and Availability](#book-search-and-availability)
+- [Reports](#reports)
+  
 ### Project Description
 Part I of the project involves design, development and implementation of the Database that could be used by
 client-server application (to be utilized by librarians).
